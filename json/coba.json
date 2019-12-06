@@ -1,0 +1,15 @@
+[
+	{
+		"nama" : "Rico Aristama",
+		"umur" : 20,
+		"nrp" : "173040052",
+		"hobi" : [
+			"basket",
+			"gaming"
+		],
+		"teman" : {
+			"teman1" : "Dina Aprianyah",
+			"teman2" : "Rio Erika"
+		}
+	}
+]
